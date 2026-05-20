@@ -139,6 +139,8 @@ Audit the ABL Cosmópolis plant and show the worst ALOHA scenario.
 - ✅ MCP-ready architecture
 - ✅ Google Cloud Marketplace ready
 
+![Architecture](docs/architecture.png)
+
 ---
 
 ## 👥 Team
